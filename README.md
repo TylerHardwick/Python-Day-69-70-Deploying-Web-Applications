@@ -9,4 +9,5 @@ Project can be reached [here](https://tyler-blog.onrender.com/).
 Due to the removal of free tier on Heroku, this project has been adapted to be hosted using render.com.
 I have implemented version control using git/github, which allows for the project to be redployed on render using lasted revisions.
 
-
+OS is now being used for environmental variables now that the blog is being hosted.
+Flask specific .gitignore file was generate using [gitignore.io](gitignore.io)
